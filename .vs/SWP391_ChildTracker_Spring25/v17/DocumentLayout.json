@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\FPT_Course\\SWP391\\SWP391_ChildTracker_Spring25\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26913BE5-5422-4C17-AA39-C3DDC9940EC3}|Common\\Common.csproj|d:\\fpt_course\\swp391\\swp391_childtracker_spring25\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26913BE5-5422-4C17-AA39-C3DDC9940EC3}|Common\\Common.csproj|solutionrelative:common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2204322-7F86-45CF-ACBF-722F0680B55C}|DataAccess\\DataAccess.csproj|d:\\fpt_course\\swp391\\swp391_childtracker_spring25\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2204322-7F86-45CF-ACBF-722F0680B55C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8FE261-EA43-4A0E-9B43-8ABA5C801AC5}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt_course\\swp391\\swp391_childtracker_spring25\\businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8FE261-EA43-4A0E-9B43-8ABA5C801AC5}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 623,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 60,
           "Children": [
             {
               "$type": "Bookmark",
@@ -250,6 +263,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FPT_Course\\SWP391\\SWP391_ChildTracker_Spring25\\Common\\Class1.cs",
+              "RelativeDocumentMoniker": "Common\\Class1.cs",
+              "ToolTip": "D:\\FPT_Course\\SWP391\\SWP391_ChildTracker_Spring25\\Common\\Class1.cs",
+              "RelativeToolTip": "Common\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:53:18.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FPT_Course\\SWP391\\SWP391_ChildTracker_Spring25\\DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
+              "ToolTip": "D:\\FPT_Course\\SWP391\\SWP391_ChildTracker_Spring25\\DataAccess\\Class1.cs",
+              "RelativeToolTip": "DataAccess\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:49:54.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FPT_Course\\SWP391\\SWP391_ChildTracker_Spring25\\BusinessLogic\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Class1.cs",
+              "ToolTip": "D:\\FPT_Course\\SWP391\\SWP391_ChildTracker_Spring25\\BusinessLogic\\Class1.cs",
+              "RelativeToolTip": "BusinessLogic\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:49:17.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
