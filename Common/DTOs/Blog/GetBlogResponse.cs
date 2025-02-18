@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Common.DTOs
+namespace Common.DTOs.Blog
 {
-    public class BlogDTO
+    public class GetBlogResponse
     {
         public int BlogId { get; set; }
         public int AuthorId { get; set; }

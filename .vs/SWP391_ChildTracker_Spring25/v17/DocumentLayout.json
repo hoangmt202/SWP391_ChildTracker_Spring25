@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D00AF69F-DAD8-424A-9AD2-AB3AA73652EF}|ChildTrackerAPI\\HealthChildTrackerAPI.csproj|c:\\users\\asus\\onedrive\\ta\u0300i li\u00EA\u0323u\\swp391\\swp\\swp391_childtracker_spring25\\childtrackerapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00AF69F-DAD8-424A-9AD2-AB3AA73652EF}|ChildTrackerAPI\\HealthChildTrackerAPI.csproj|solutionrelative:childtrackerapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D00AF69F-DAD8-424A-9AD2-AB3AA73652EF}|ChildTrackerAPI\\HealthChildTrackerAPI.csproj|c:\\users\\asus\\onedrive\\ta\u0300i li\u00EA\u0323u\\swp391\\swp\\swp391_childtracker_spring25\\childtrackerapi\\controller\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00AF69F-DAD8-424A-9AD2-AB3AA73652EF}|ChildTrackerAPI\\HealthChildTrackerAPI.csproj|solutionrelative:childtrackerapi\\controller\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8FE261-EA43-4A0E-9B43-8ABA5C801AC5}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\asus\\onedrive\\ta\u0300i li\u00EA\u0323u\\swp391\\swp\\swp391_childtracker_spring25\\businesslogic\\service\\implement\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8FE261-EA43-4A0E-9B43-8ABA5C801AC5}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\service\\implement\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2204322-7F86-45CF-ACBF-722F0680B55C}|DataAccess\\DataAccess.csproj|c:\\users\\asus\\onedrive\\ta\u0300i li\u00EA\u0323u\\swp391\\swp\\swp391_childtracker_spring25\\dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2204322-7F86-45CF-ACBF-722F0680B55C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D00AF69F-DAD8-424A-9AD2-AB3AA73652EF}|ChildTrackerAPI\\HealthChildTrackerAPI.csproj|c:\\users\\asus\\onedrive\\ta\u0300i li\u00EA\u0323u\\swp391\\swp\\swp391_childtracker_spring25\\childtrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00AF69F-DAD8-424A-9AD2-AB3AA73652EF}|ChildTrackerAPI\\HealthChildTrackerAPI.csproj|solutionrelative:childtrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8FE261-EA43-4A0E-9B43-8ABA5C801AC5}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\asus\\onedrive\\ta\u0300i li\u00EA\u0323u\\swp391\\swp\\swp391_childtracker_spring25\\businesslogic\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8FE261-EA43-4A0E-9B43-8ABA5C801AC5}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2204322-7F86-45CF-ACBF-722F0680B55C}|DataAccess\\DataAccess.csproj|c:\\users\\asus\\onedrive\\ta\u0300i li\u00EA\u0323u\\swp391\\swp\\swp391_childtracker_spring25\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2204322-7F86-45CF-ACBF-722F0680B55C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2204322-7F86-45CF-ACBF-722F0680B55C}|DataAccess\\DataAccess.csproj|c:\\users\\asus\\onedrive\\ta\u0300i li\u00EA\u0323u\\swp391\\swp\\swp391_childtracker_spring25\\dataaccess\\entity\\blogentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2204322-7F86-45CF-ACBF-722F0680B55C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entity\\blogentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8FE261-EA43-4A0E-9B43-8ABA5C801AC5}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\asus\\onedrive\\ta\u0300i li\u00EA\u0323u\\swp391\\swp\\swp391_childtracker_spring25\\businesslogic\\service\\interface\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8FE261-EA43-4A0E-9B43-8ABA5C801AC5}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\service\\interface\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 623,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,66 +42,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\ChildTrackerAPI\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "ChildTrackerAPI\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\ChildTrackerAPI\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "ChildTrackerAPI\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T03:12:53.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IBlogService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\BusinessLogic\\Services\\Interfaces\\IBlogService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Services\\Interfaces\\IBlogService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\BusinessLogic\\Services\\Interfaces\\IBlogService.cs",
-              "RelativeToolTip": "BusinessLogic\\Services\\Interfaces\\IBlogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\DataAccess\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\DataAccess\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T02:46:53.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\ChildTrackerAPI\\Program.cs",
-              "RelativeDocumentMoniker": "ChildTrackerAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\ChildTrackerAPI\\Program.cs",
-              "RelativeToolTip": "ChildTrackerAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T02:22:46.334Z",
+              "WhenOpened": "2025-02-18T18:47:59.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\DataAccess\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\DataAccess\\AppDbContext.cs",
-              "RelativeToolTip": "DataAccess\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABEAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\ChildTrackerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ChildTrackerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\ChildTrackerAPI\\Program.cs",
+              "RelativeToolTip": "ChildTrackerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T01:33:19.167Z"
+              "WhenOpened": "2025-02-18T18:27:57.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BlogEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\DataAccess\\Entity\\BlogEntity.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Entity\\BlogEntity.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\DataAccess\\Entity\\BlogEntity.cs",
-              "RelativeToolTip": "DataAccess\\Entity\\BlogEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\BusinessLogic\\Service\\Interface\\IBlogService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Service\\Interface\\IBlogService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\BusinessLogic\\Service\\Interface\\IBlogService.cs",
+              "RelativeToolTip": "BusinessLogic\\Service\\Interface\\IBlogService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T01:29:52.266Z"
+              "WhenOpened": "2025-02-18T14:03:43.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\ChildTrackerAPI\\Controller\\BlogController.cs",
+              "RelativeDocumentMoniker": "ChildTrackerAPI\\Controller\\BlogController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\ChildTrackerAPI\\Controller\\BlogController.cs",
+              "RelativeToolTip": "ChildTrackerAPI\\Controller\\BlogController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwDsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:37:24.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\BusinessLogic\\Service\\Implement\\BlogService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Service\\Implement\\BlogService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\SWP391\\SWP\\SWP391_ChildTracker_Spring25\\BusinessLogic\\Service\\Implement\\BlogService.cs",
+              "RelativeToolTip": "BusinessLogic\\Service\\Implement\\BlogService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:35:50.045Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,8 +1,7 @@
-using BusinessLogic.Services.Implementation;
-using BusinessLogic.Services.Interfaces;
-using DataAccess;
-using DataAccess.Repository.Implementation;
-using DataAccess.Repository.Interfaces;
+
+using BusinessLogic.Service.Implement;
+using BusinessLogic.Service.Interface;
+using DataAccess.Context;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -15,12 +14,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Ðk DbContext
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
-//  Ðk BlogService,BlogRepository
-builder.Services.AddScoped<IBlogRepository, BlogRepository>();
+// 
+builder.Services.AddDatabaseService(builder.Configuration.GetConnectionString("Mycnn")!);
 builder.Services.AddScoped<IBlogService, BlogService>();
 
 var app = builder.Build();
