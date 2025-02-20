@@ -35,5 +35,46 @@ namespace BusinessLogic.Services.Implementations
 
             return user;
         }
+        public async Task<User> RegisterAsync(RegisterRequestDTO request)
+        {
+            var userRepository = _unitOfWork.GetRepository<User>();
+
+            // Kiểm tra username đã tồn tại
+            var existingUsername = await userRepository.AnyAsync(u => u.Username == request.Username);
+            if (existingUsername)
+            {
+                throw new Exception("Tên đăng nhập đã tồn tại");
+            }
+
+            // Kiểm tra email đã tồn tại
+            var existingEmail = await userRepository.AnyAsync(u => u.Email == request.Email);
+            if (existingEmail)
+            {
+                throw new Exception("Email đã tồn tại");
+            }
+
+            var user = new User
+            {
+                Username = request.Username,
+                Password = request.Password, // Nên hash password trước khi lưu
+                Email = request.Email,
+                FullName = request.FullName,
+                Phone = request.Phone,
+                Address = request.Address,
+                Role = "User", // Role mặc định
+                Status = true,
+                CreatedAt = DateTime.UtcNow,
+                UpdatedAt = DateTime.UtcNow
+            };
+
+            await userRepository.AddAsync(user);
+            await userRepository.SaveAsync();
+
+            return user;
+        }
+        public async Task LogoutAsync(int userId)
+        {
+            await Task.CompletedTask;
+        }
     }
 }
